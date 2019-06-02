@@ -1,0 +1,13 @@
+coupons:
+  XP:
+    item:
+      id: 378
+      data: 0
+      range: 20;40
+      name: "&e&lXP &7>> (&e%xp%&7)"
+      lore:
+      - '&7Contains &e%xp% &7amount of XP'
+      - '&e(!) &e&nRight-Click&7 to use the voucher!'
+      glow: true
+    actions:
+      - 'eco give %player% %xp%'

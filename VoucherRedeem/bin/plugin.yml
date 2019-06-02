@@ -1,0 +1,11 @@
+name: LuckyVoucherAddon
+author: GOATCoder
+version: BETA
+main: me.goatcoder.voucheraddon.Main
+commands:
+  givecoupon:
+    usage: /<command>
+    default: op
+  createcoupon:
+    usage: /<command>
+    default: op
